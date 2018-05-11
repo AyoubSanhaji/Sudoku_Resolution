@@ -9,4 +9,3 @@ sudoku.o:	sudoku_v2.c
 
 clean:
 	rm -f  *.o *~
-
